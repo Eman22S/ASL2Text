@@ -8,9 +8,15 @@ This project utilizes computer vision and deep learning techniques to achieve AS
 This project requires the following libraries:
 
 scikit-learn (https://scikit-learn.org/)
+
 TensorFlow (https://www.tensorflow.org/)
+
 Keras (https://keras.io/)
+
 MediaPipe (https://ai.google.dev/edge/mediapipe/solutions/guide)
+
 OpenCV (potentially, for video processing) (https://opencv.org/)
-gTTS ([invalid URL removed])
+
+gTTS (https://gtts.readthedocs.io/en/latest/)
+
 Pygame (https://www.pygame.org/)
