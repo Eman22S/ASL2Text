@@ -1,0 +1,14 @@
+# macOS / OS X specific files
+.DS_Store
+.localized/
+*.desktop
+*.prof
+*.dmg
+*.pkg
+*.sav
+*~
+
+# Xcode related files
+build/
+DerivedData/
+xcuserdata/
