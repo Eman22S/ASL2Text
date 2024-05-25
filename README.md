@@ -7,19 +7,39 @@ This project utilizes computer vision and deep learning techniques to achieve AS
 ## Dependencies
 This project requires the following libraries:
 
-scikit-learn (https://scikit-learn.org/)
 
-TensorFlow (https://www.tensorflow.org/)
 
-Keras (https://keras.io/)
+scikit-learn 
 
-MediaPipe (https://ai.google.dev/edge/mediapipe/solutions/guide)
+`pip install scikit-learn`
 
-OpenCV (potentially, for video processing) (https://opencv.org/)
 
-gTTS (https://gtts.readthedocs.io/en/latest/)
+TensorFlow 
 
-Pygame (https://www.pygame.org/)
+`pip install tensorflow==2.15.0`
+
+
+Keras
+
+`pip install keras==2.15.0`
+
+
+OpenCV
+
+`pip install opencv-python`
+
+MediaPipe
+
+`pip install mediapipe`
+
+Google Text-to-Speech
+
+`pip install gTTS`
+
+Pygame 
+
+`pip install pygame`
+
 
 ## American Sign language
 
