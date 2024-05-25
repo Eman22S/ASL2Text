@@ -22,3 +22,9 @@ OpenCV (potentially, for video processing) (https://opencv.org/)
 gTTS (https://gtts.readthedocs.io/en/latest/)
 
 Pygame (https://www.pygame.org/)
+
+## ASL Example
+![ASL Example](ASL-Example.png)
+
+## ASL Dataset Used
+https://drive.google.com/file/d/1tpjjLkuqXWF9RuKMq04YgQhp9UjMcx4D/view
