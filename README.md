@@ -16,12 +16,12 @@ scikit-learn
 
 TensorFlow 
 
-`pip install tensorflow==2.15.0`
+`pip install tensorflow`
 
 
 Keras
 
-`pip install keras==2.15.0`
+`pip install keras`
 
 
 OpenCV
