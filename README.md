@@ -25,7 +25,10 @@ Pygame (https://www.pygame.org/)
 ![ASL Example](ASL-Example.png)
 
 ## DEMO
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FGRAcczxRJw/0.jpg)](https://www.youtube.com/watch?v=FGRAcczxRJw)
+
+
+
+https://github.com/Eman22S/ASL2Text/assets/18707775/c6f3ed37-78c2-4217-9baa-2365a48ced13
 
 
 ## ASL Dataset Used
