@@ -24,5 +24,9 @@ Pygame (https://www.pygame.org/)
 ## ASL Examples
 ![ASL Example](ASL-Example.png)
 
+## DEMO
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FGRAcczxRJw/0.jpg)](https://www.youtube.com/watch?v=FGRAcczxRJw)
+
+
 ## ASL Dataset Used
 https://drive.google.com/file/d/1tpjjLkuqXWF9RuKMq04YgQhp9UjMcx4D/view
