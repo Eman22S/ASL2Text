@@ -48,7 +48,11 @@ Pygame
 ## DEMO
 https://github.com/Eman22S/ASL2Text/assets/18707775/c6f3ed37-78c2-4217-9baa-2365a48ced13
 
-
+## Loading & Running Model
+This section outlines the steps to execute your trained machine learning model.
+1. install all dependencies
+2. run `python main.py` command
+   
 ## ASL Dataset Used
 We collected and used our own dataset for this project.
 https://drive.google.com/file/d/1tpjjLkuqXWF9RuKMq04YgQhp9UjMcx4D/view
